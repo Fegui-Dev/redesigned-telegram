@@ -1,0 +1,2 @@
+O aprendizado de máquina é uma técnica de inteligência artificial que permite que os sistemas aprendam e melhorem a partir da experiência."
+O modelo de linguagem GPT-3 foi treinado em uma vasta quantidade de dados de texto e é capaz de gerar respostas em linguagem natural."
